@@ -47,15 +47,17 @@ I'm **Maraka Duncan**, aka **Rustghost** — a telecommunications engineer, cybe
 
 ## 📈 GitHub Stats
 
-![Rustghost's GitHub stats](https://github-readme-stats.vercel.app/api?username=marakaduncan&show_icons=true&theme=tokyonight)
+![Zerocool's GitHub stats](https://github-readme-stats.vercel.app/api?username=zerocool-007&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zerocool-007&layout=compact&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zerocool-007&theme=tokyonight)
+
 
 ---
 
 ## 🤝 Let's Connect
 
 📧 Email: [immaraka@proton.me](mailto:immaraka@proton.me)  
-🌐 Website: [bmorenet.io](https://bmorenet.io) *(coming soon)*  
-🔗 LinkedIn: *(drop your link here if you want it public)*
+
 
 ---
 
