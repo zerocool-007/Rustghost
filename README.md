@@ -12,38 +12,51 @@ I'm **Maraka Duncan**, aka **Rustghost** — a telecommunications engineer, cybe
 
 ## 🛠️ Tech Arsenal
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-F05340?style=flat-square&logo=laravel&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![MikroTik](https://img.shields.io/badge/MikroTik-EA1C2D?style=flat-square)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-F05340?style=for-the-badge&logo=laravel&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Cloud](https://img.shields.io/badge/Cloud%20Computing-00C7B7?style=for-the-badge&logo=icloud&logoColor=white)
+![MikroTik](https://img.shields.io/badge/MikroTik-EA1C2D?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ---
 
 ## 🚀 Highlight Projects
 
-- **ISP Management System** – PHP + MikroTik API + M-Pesa Paybill + PPPoE & Hotspot handling  
-- **Adapay** – Crypto microloan platform on the Cardano blockchain  
-- **Kakuma Mesh Hotspot** – Affordable internet access for under-served regions  
-- **The GODS EYE** – Surveillance & dark web AI bot with voice integration  
-- **Fiber Onboarding Tool** – Google Sheets + Twilio + Auto-call workflow
+- 💻 **ISP Management System**  
+  PHP + MikroTik API + M-Pesa Paybill + PPPoE & Hotspot automation
+
+- 💰 **Adapay**  
+  Crypto microloan platform built on the Cardano blockchain
+
+- 📡 **Kakuma Mesh Hotspot**  
+  Affordable internet mesh network for under-served regions
+
+- 👁️ **The GODS EYE**  
+  Surveillance & dark web AI bot with voice and video analysis
+
+- 📞 **Fiber Onboarding Tool**  
+  Google Sheets + Twilio API + auto-call workflow for field ops
 
 ---
 
 ## 📈 GitHub Stats
 
-![Rustghost's GitHub stats](https://github-readme-stats.vercel.app/api?username=marakaduncan&show_icons=true&theme=radical)
+![Rustghost's GitHub stats](https://github-readme-stats.vercel.app/api?username=marakaduncan&show_icons=true&theme=tokyonight)
 
 ---
 
 ## 🤝 Let's Connect
 
-📧 [immaraka@proton.me](mailto:immaraka@proton.me)  
-🌐 [bmorenet.io](https://bmorenet.io) *(coming soon)*  
-🔗 [LinkedIn](https://linkedin.com/in/yourprofile) *(optional)*
+📧 Email: [immaraka@proton.me](mailto:immaraka@proton.me)  
+🌐 Website: [bmorenet.io](https://bmorenet.io) *(coming soon)*  
+🔗 LinkedIn: *(drop your link here if you want it public)*
 
 ---
 
-> *"Build like a ghost, move like a whisper, impact like thunder."*
+> _"Build like a ghost, move like a whisper, impact like thunder."_
